@@ -1,4 +1,4 @@
-# Take On AI
+# Social Media Vs. Traditional Media on AI
 
 ## Introduction
 This study is motivated by the need to shed light on how traditional and social media shape public and policy-making perspectives on these technologies. This study contributes to the field of media studies and social data analytics by systematically comparing the portrayal of AI and automation in traditional versus social media. My goal is to identify the subtle differences across these platforms in terms of tone, content, and interaction. By highlighting these differences, the project provides insights into how media forms influence public perceptions and debates surrounding emerging technologies. The findings are intended to assist policymakers, journalists, and technology developers in understanding and navigating the complex media landscape influencing technology adoption and regulation.
