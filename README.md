@@ -1,4 +1,5 @@
-#Analysis to answer the question: 
+Analysis to answer the question: 
+
 How does traditional and social media discourse differ in portraying AI and automation?
 
 Data:
